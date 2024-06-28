@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory HomeLab</b>
+- <a href="https://github.com/Developer-AaronB/ActiveDirectoryHomeLab/tree/main">Active Directory Home Lab</a>
 
 <h2>Certifications</h2>
 - [Google Cybersecurity Certificate]
