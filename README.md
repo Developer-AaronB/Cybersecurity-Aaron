@@ -6,6 +6,7 @@
 
 <h2>Certifications</h2>
 - [Google Cybersecurity Certificate]
+- <a href="https://www.credly.com/badges/abc3b787-4002-42dd-9ff7-013e7641b521/linked_in_profile">Google Cybersecurity Certificate</a>
 <h2> 🤳 Connect with me:</h2>
 
 
