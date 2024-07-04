@@ -12,7 +12,10 @@
 
 <h2>Skills</h2>
 -Authentication
--Cybersecurity Assessment 
+-Cybersecurity Assessment
+-Information Assurance
+</br>
+-Intrustion Detection and IDS Tools
 
 
 <h2> 🤳 Connect with me:</h2>
