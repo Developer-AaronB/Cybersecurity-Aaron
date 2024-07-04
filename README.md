@@ -12,6 +12,7 @@
 
 <h2>Skills</h2>
 -Authentication
+-Cybersecurity Assessment 
 
 
 <h2> 🤳 Connect with me:</h2>
