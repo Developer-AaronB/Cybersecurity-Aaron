@@ -11,6 +11,7 @@
 </br>
 
 <h2>Skills</h2>
+-Authentication
 
 
 <h2> 🤳 Connect with me:</h2>
