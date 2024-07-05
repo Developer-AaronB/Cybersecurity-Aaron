@@ -9,7 +9,7 @@
 </br>
 -<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVZ8ZYQ3PP.png">SOC Level 1 TryHackMe</a>
 </br>
-
+-Security+ (ETA: July 2024) 
 <h2>Skills</h2>
 -Authentication
 -Cybersecurity Assessment
