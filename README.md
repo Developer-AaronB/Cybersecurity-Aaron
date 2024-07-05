@@ -17,7 +17,7 @@
 </br>
 -Intrustion Detection and IDS Tools
 -Python
-SIEM Tools
+-SIEM Tools
 
 
 <h2> 🤳 Connect with me:</h2>
