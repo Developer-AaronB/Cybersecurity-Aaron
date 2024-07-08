@@ -4,6 +4,8 @@
 
 - <a href="https://github.com/Developer-AaronB/ActiveDirectoryHomeLab/tree/main">Active Directory Home Lab</a>
 
+<h3> Incident Handler's Journal:</h3>
+- <a href="https://docs.google.com/document/d/1p1GKJsqYTDpKtC59fVXnflvMKtvHDDPv7b1YjWN-nxY/edit?usp=sharing"> Incidents </a>
 <h2>Certifications</h2>
 - <a href="https://www.credly.com/badges/abc3b787-4002-42dd-9ff7-013e7641b521/linked_in_profile">Google Cybersecurity Certificate</a>
 </br>
