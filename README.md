@@ -3,6 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <a href="https://github.com/Developer-AaronB/ActiveDirectoryHomeLab/tree/main">Active Directory Home Lab</a>
+</br>
+- <a href="https://github.com/Developer-AaronB/Cybersecurity-SOAR-EDR">SOAR EDR LAB</a>
 
 <h3> Incident Handler's Journal:</h3>
 - <a href="https://docs.google.com/document/d/1p1GKJsqYTDpKtC59fVXnflvMKtvHDDPv7b1YjWN-nxY/edit?usp=sharing"> Incidents </a>
