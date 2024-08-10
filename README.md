@@ -15,7 +15,7 @@
 - <a href="https://isc2.obrizum.io/org/cc/certificate/a923dc91-8799-4a8a-8a2a-97a0a5ee9c45">Certified in Cybersecurity ISC2</a> 
 </br>
 
--Security+ (ETA: July 2024) 
+-Security+ (ETA: October 2024) 
 <h2>Skills</h2>
 -Authentication
 -Cybersecurity Assessment
