@@ -6,7 +6,7 @@
 -<a href="https://github.com/Developer-AaronB/Cybersecurity-SOAR-EDR">SOAR EDR LAB</a>
 
 
-<h2>IT Projects</h2>
+
 
 <h3> Incident Handler's Journal:</h3>
 - <a href="https://docs.google.com/document/d/1p1GKJsqYTDpKtC59fVXnflvMKtvHDDPv7b1YjWN-nxY/edit?usp=sharing"> Incidents </a>
@@ -27,6 +27,9 @@
 -Intrustion Detection and IDS Tools
 -Python
 -SIEM Tools
+
+
+<h2>IT Projects</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
