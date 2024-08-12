@@ -28,10 +28,30 @@
 -Python
 -SIEM Tools
 
+<details>
+<summary><h2>Information Technology Projects: Google IT Support</h2></summary>
 
-<h2>IT Projects</h2>
+<details>
+<summary><h2>Creating a folder In Windows VM</h2></summary>
+<img width="1710" alt="Screenshot 2024-08-11 at 10 22 00 PM" src="https://github.com/user-attachments/assets/6533da67-3527-4aff-bf56-b5449bb7054e">
+</br>
+  First project from the google IT Support Certificate: Creating a folder
+
+For keyboard-only users:
+
+    Navigate to the desktop using the Tab key and arrow keys.
+    Press Ctrl + Shift + N to create a new folder.
+    The new folder will be named New Folder by default.
+    Rename folder with My Super Cool Folder and press Enter.
+
+For other users:
+
+Creating a folder in Windows is super simple. Right-click anywhere on the desktop and you should see this menu appear:
 
 
+</details>
+
+</details>
 <h2> 🤳 Connect with me:</h2>
 
 
