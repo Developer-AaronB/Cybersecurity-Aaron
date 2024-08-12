@@ -51,6 +51,17 @@ Creating a folder in Windows is super simple. Right-click anywhere on the deskto
 
 </details>
 
+<details>
+  <Summary><h2>Creating a folder in Linux VM </h2></Summary>
+  <img width="1461" alt="Screenshot 2024-08-11 at 10 36 56 PM" src="https://github.com/user-attachments/assets/1e7a9645-957e-4fba-9200-bfad53937f26">
+</br>
+Creating a Folder: To create a sample folder, enter this command into the terminal: mkdir (folder name)
+
+</details>
+
+
+
+
 </details>
 <h2> 🤳 Connect with me:</h2>
 
