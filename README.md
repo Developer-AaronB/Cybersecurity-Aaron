@@ -59,7 +59,25 @@ Creating a Folder: To create a sample folder, enter this command into the termin
 
 </details>
 
+<details>
+  <summary><h2>Installing, Updating, and Removing Programs on Windows VM</h2></summary>
+</br>
+  There are three learning objectives for this lab:
+    Install- You'll install the Mozilla Firefox web browser. There's currently no version of Firefox on the machine you'll be using, so it     will be a fresh installation.
+    Update- The machine you'll be using comes preinstalled with an old version of the VLC Media Player. You'll update VLC to the newest         version.
+    Uninstall- You'll uninstall the GIMP photo-editing tool from the machine, removing it entirely.
+</br>
+  <img width="1710" alt="Screenshot 2024-08-14 at 11 09 50 PM" src="https://github.com/user-attachments/assets/4495fb51-ab7b-4ee9-a264-1c287a6d8041">
+</br>
+  <img width="1432" alt="Screenshot 2024-08-14 at 11 14 12 PM" src="https://github.com/user-attachments/assets/42b5b324-f2d5-45e7-a4e6-cb6b91805563">
+</br>
+<img width="480" alt="Screenshot 2024-08-14 at 11 17 30 PM" src="https://github.com/user-attachments/assets/bd50a6c8-aacb-42da-897c-6801b317c12b">
 
+
+
+
+
+</details>
 
 
 </details>
